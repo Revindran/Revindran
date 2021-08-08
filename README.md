@@ -21,6 +21,8 @@
 
 - 📫 How to reach me **ravindran1307@gmail.com**
 
+- 😄 Pronouns: He/Him.
+
 - ⚡ Fun fact **No Country Is Allowed to Own the Moon.**
 
 ## 🚀 Languages and Tools:
