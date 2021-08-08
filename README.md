@@ -6,7 +6,7 @@
 <h3 align="center">I'm a passionate Android Developer from India.</h3>
 
 ### My Contributions
-![Snake Eating away my contributions](https://github.com/Revindran/Revindran/blob/output/github-contribution-grid-snake.gif)
+![Snake Eating away my contributions](https://github.com/Revindran/Revindran/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🙋‍♂️ About Me
