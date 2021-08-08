@@ -5,10 +5,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raveendran</h1>
 <h3 align="center">I'm a passionate Android Developer from India.</h3>
 
+### My Contributions
+![Snake Eating away my contributions](https://github.com/Revindran/Revindran/blob/output/github-contribution-grid-snake.gif)
+
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Money Mate**
+- 🔭 I’m currently working **Mostly for myself and as android developer**
 
 - 🌱 I’m currently learning **Jetpack Compose.**
 
