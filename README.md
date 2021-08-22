@@ -2,7 +2,7 @@
 
 <!-- ![18123-developer](https://user-images.githubusercontent.com/35566904/128631205-362184e1-6536-4ba2-a6c8-d0970e3a302f.gif) -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raveendran</h1>
+<h1 align="center">வணக்கம், I'm Raveendran  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm a passionate self-taught Android Developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 i am also an open-source enthusiast and i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
